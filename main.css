@@ -1,0 +1,104 @@
+.main_block{
+    padding: 10px;
+    border:5px solid rgb(6, 177,6);
+    height : 500px;
+    position: relative;
+    border-radius: 10px;
+}
+/* .p-all{
+    position: relative;
+    text-align: center;
+    align-items: center;
+    justify-items: center;
+} */
+.divl{
+    border:5px red solid;
+    border-radius: 10px;
+    width: 300px;
+    height: 300px;
+    background-color: aquamarine;
+    display: flex;
+    /* align-items: center; */
+    position: relative;
+    /* text-align: center; */
+}
+.div2{
+    border:5px orange solid;
+    border-radius: 10px;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 55%;
+    top: 55%;
+    /* align-items: center;
+    justify-items: center; */
+}
+.div3{
+    border: 5px solid blue;
+    border-radius: 10px;
+    width: 300px;
+    height: 200px;
+    display: flex;
+    position: absolute;
+    bottom: 10px;
+    right: 50px;
+    /* text-align: center;    */
+}
+.div4{
+    border: 5px solid yellow;
+    border-radius: 10px;
+    width: 175px;
+    height: 40px;
+    position: absolute;
+    left: 20px;
+    top: 20px;
+    /* text-align: center; */
+}
+.div5{
+    border: 5px solid brown;
+    border-radius: 10px;
+    position: absolute;
+    left: 35%;
+    top: 30%;
+    width: 400px;
+    height: 200px;
+}
+.div6{
+    border: 5px solid purple;
+    border-radius: 10px;
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    width: 85px;
+    height: 85px;
+}
+.text1{
+    position: absolute;
+    top: 40%;
+    left: 35%;
+    
+}
+.text2{
+    position: absolute;
+    top: 15%;
+    left: 25%;   
+}
+.text3{
+    position: absolute;
+    top: 40%;
+    left: 35%;  
+}
+.text4{
+    position: absolute;
+    left: 20%;   
+}
+.text5{
+    position: absolute;
+    top: 40%;
+    left: 40%;   
+}
+.text6{
+    position: absolute;
+    top: 10%;
+    left: 18%;    
+}
